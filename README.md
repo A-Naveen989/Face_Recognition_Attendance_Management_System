@@ -30,7 +30,7 @@ The **Attendance Management System** is a Python-based application that leverage
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/attendance-management-system.git
+git clone https://github.com/A-Naveen989/Face_Recognition_Attendance_Management_System.git
 cd attendance-management-system
 ```
 
@@ -75,7 +75,7 @@ Download the Haarcascade XML file for face detection from the [OpenCV GitHub rep
 Attendance Management System using Face Recognition/
 │
 ├── TrainingImage/               # Directory to store training images
-├── TrainingImageLabel/          # Directory to save trained model
+├── TrainingImageLabel/          # Directory to save the trained model
 ├── StudentDetails/              # Directory to save student details CSV
 ├── Attendance/                  # Directory to save attendance records
 ├── haarcascade_frontalface_default.xml  # Haarcascade file for face detection
@@ -87,11 +87,6 @@ Attendance Management System using Face Recognition/
 ├── app.py                       # Streamlit app for attendance visualization
 └── README.md                    # Project documentation
 ```
-
----
-
-## Contributing
-Contributions are welcome! If you have suggestions for improvements or additional features, feel free to fork the repository and submit a pull request.
 
 ---
 
@@ -108,5 +103,3 @@ Special thanks to the following:
 - **MySQL** for database management.
 
 ---
-
-For any questions or issues, feel free to contact **[your email]**.
