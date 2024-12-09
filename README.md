@@ -34,4 +34,4 @@ The Face Recognition Attendance Management System is an innovative solution desi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/face-recognition-attendance.git
+   git clone https://github.com/A-Naveen989/Face_Recognition_Attendance_Management_System
